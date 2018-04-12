@@ -8,12 +8,14 @@ html {
 
   .mother-quote {
     background-image: url(../files/expectant-mother-quote-mobi.png);
+    background-repeat: no-repeat;
     height: 304px;
     width: 343px;
   }
 @media (min-width: 769px) {
   .mother-quote {
     background-image: url(../files/expectant-mother-quote.png);
+    background-repeat: no-repeat;
     height: 255px;
     width: 630px;
   }
